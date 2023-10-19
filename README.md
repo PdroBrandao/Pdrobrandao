@@ -1,6 +1,6 @@
 # Creativity is my main tool.
 
-# Currently, I work with 
+### Currently, I work with 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -10,7 +10,7 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-# I have previously worked with
+### I have previously worked with
 
 <div style="display: inline_block"><br>
 
@@ -23,7 +23,7 @@
   <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 </div>       
   
-# My Social Medias
+### My Social Medias
  
 <div> 
   <a href="https://www.youtube.com/channel/UCNmmN3IJvfk8g36yP6Oo6lw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
