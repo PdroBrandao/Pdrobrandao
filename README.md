@@ -1,4 +1,4 @@
-# Pedro Brandão - AI MVP Builder & Full Stack Developer
+#  AI MVP Builder & Full Stack Developer
 
 I help founders launch smart, scalable products — fast. Specialized in AI-powered MVPs and enterprise solutions.
 
